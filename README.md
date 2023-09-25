@@ -1,1 +1,1 @@
-# C--Code-Databse-MysqlManagement-MVC
+# basic for loop nested events code of angular 
